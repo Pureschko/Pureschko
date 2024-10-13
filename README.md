@@ -3,7 +3,7 @@
 <h3>I'm a Product Designer</h3>
 </div>
 <div align="center">
-<a href="www.linkedin.com/in/inna-shchokina-b466b9142">
+<a href="https://www.linkedin.com/in/inna-shchokina-b466b9142/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
 alt="Linkedin"/>
 </a>
@@ -19,7 +19,7 @@ alt="Dribbble"/>
 - 🌱   I’m currently learning React & CSS
 - 👯   I’m looking to collaborate on new Projects
 - 🧑‍🎨   I have Design Experience - [CV](https://www.figma.com/proto/sKZ1xsOrZTB2z7gxfcl0Qi/CE?page-id=0%3A1&node-id=1542-2&node-type=frame&viewport=3177%2C4951%2C0.31&t=hTLsK4iE2Z04zfX4-1&scaling=min-zoom&content-scaling=fixed)
-- 📫   Reach me by [email](mailto:i.shchokina@gmail.com)
+- 📫   Reach me by email: i.shchokina@gmail.com
 
 
 
