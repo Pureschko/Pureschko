@@ -13,16 +13,22 @@ alt="Dribbble"/>
 </a>
 </div>
 
-<!--
-**Pureschko/Pureschko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :woman_technologist: About Me :
+- 🌱   I’m currently learning React & CSS
+- 👯   I’m looking to collaborate on new Projects
+- 🧑‍🎨   I have Design Experience - [CV](https://www.figma.com/proto/sKZ1xsOrZTB2z7gxfcl0Qi/CE?page-id=0%3A1&node-id=1542-2&node-type=frame&viewport=3177%2C4951%2C0.31&t=hTLsK4iE2Z04zfX4-1&scaling=min-zoom&content-scaling=fixed)
+- 📫   Reach me by [email](mailto:i.shchokina@gmail.com)
+
+
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg"title="Sketch" alt="Sketch" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg"title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg"title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
