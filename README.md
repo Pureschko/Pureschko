@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
 alt="Linkedin"/>
 </a>
-<a href="https://dribbble.com/happy_cactus">
+<a href="https://dribbble.com/ishchokina">
 <img src="https://img.shields.io/badge/Dribbble-E84F8A?style=for-the-badge&logo=dribbble&logoColor=white"
 alt="Dribbble"/>
 </a>
