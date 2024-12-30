@@ -24,7 +24,7 @@ alt="Behance"/>
 ### About Me:
 - 🌱   I’m currently learning React & CSS
 - 👯   I’m looking to collaborate on new Projects
-- 🧑‍🎨   I have Design Experience - [CV](https://www.figma.com/proto/sKZ1xsOrZTB2z7gxfcl0Qi/CE?page-id=0%3A1&node-id=1542-2&node-type=frame&viewport=3177%2C4951%2C0.31&t=hTLsK4iE2Z04zfX4-1&scaling=min-zoom&content-scaling=fixed)
+- 🧑‍🎨   I have Design Experience - [CV](https://www.figma.com/proto/9LoDy3Dp0WbO7vRNx5PtAU/CV?node-id=89-12&t=tx0zmSHoxzbXEJSK-0&scaling=min-zoom&content-scaling=fixed&page-id=89%3A2&starting-point-node-id=89%3A12)
 - 📫   Reach me by email: i.shchokina@gmail.com
 
 
