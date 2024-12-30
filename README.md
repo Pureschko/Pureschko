@@ -8,7 +8,7 @@
 alt="Linkedin"/>
 </a>
 <a href="https://dribbble.com/happy_cactus">
-<img src="https://img.shields.io/badge/Dribbble-red?style=for-the-badge&logo=dribbble&logoColor=white"
+<img src="https://img.shields.io/badge/Dribbble-E84F8A?style=for-the-badge&logo=dribbble&logoColor=white"
 alt="Dribbble"/>
 </a>
 <a href="https://www.behance.net/innashekin">
