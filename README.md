@@ -11,13 +11,13 @@ alt="Linkedin"/>
 <img src="https://img.shields.io/badge/Dribbble-red?style=for-the-badge&logo=dribbble&logoColor=white"
 alt="Dribbble"/>
 </a>
-</div>
-
-<a href="https://dribbble.com/happy_cactus">
-<img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white"
+<a href="https://www.behance.net/innashekin">
+<img src="https://img.shields.io/badge/Behance-105DFB?style=for-the-badge&logo=behance&logoColor=white" 
 alt="Behance"/>
 </a>
 </div>
+
+
 
 
 
