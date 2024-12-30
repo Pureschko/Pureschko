@@ -11,7 +11,7 @@ alt="Linkedin"/>
 <img src="https://img.shields.io/badge/Dribbble-E84F8A?style=for-the-badge&logo=dribbble&logoColor=white"
 alt="Dribbble"/>
 </a>
-<a href="https://www.behance.net/innashekin">
+<a href="https://www.behance.net/ishchokina">
 <img src="https://img.shields.io/badge/Behance-105DFB?style=for-the-badge&logo=behance&logoColor=white" 
 alt="Behance"/>
 </a>
