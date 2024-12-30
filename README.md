@@ -5,7 +5,7 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/inna-shchokina-b466b9142/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-alt="Linkedin"/>
+alt="LinkedIn" />
 </a>
 <a href="https://dribbble.com/happy_cactus">
 <img src="https://img.shields.io/badge/Dribbble-E84F8A?style=for-the-badge&logo=dribbble&logoColor=white"
